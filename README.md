@@ -1,4 +1,4 @@
- ![21 dias de código](public/assets/image/preview.png)
+ ![21 dias de código](public/assets/image/preview2.png)
 
 <h4 align="center">
   Desafio feito pela Rocketseat.
