@@ -19,6 +19,16 @@ Parte 1
 
 ---
 
+## 🟣 Regras
+
+- Todos os dias, você vai ter que codar por pelo menos uma hora!
+
+- Você deve compartilhar todos os dias o seu progresso nas suas redes sociais e marcar a @rocketseat_oficial com a hashtag #21diasdecodigo que iremos repostar.
+
+- Gerar networking com as pessoas que também estão participando desse desafio.
+
+---
+
 ## 💼 Tecnologias utilizadas
 
 Linguagens:
