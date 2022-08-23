@@ -11,11 +11,31 @@ Parte 1
 
 - [x] **Dia 1:** Crie um repositório para listar os projetos que serão desenvolvidos durante os 21 dias de código.
 - [x] **Dia 2:** Faça um Hello World customizado com fontes, cores e imagens.
-- [ ] **Dia 3:** Crie um botão animado.
-- [ ] **Dia 4:** Crie uma calculadora.
-- [ ] **Dia 5:** Desenvolva uma página customizada que exiba o erro 404.
+- [x] **Dia 3:** Crie um botão animado.
+- [x] **Dia 4:** Crie uma calculadora.
+- [x] **Dia 5:** Desenvolva uma página customizada que exiba o erro 404.
 - [ ] **Dia 6:** Crie um card com o efeito glassmorphism.
 - [ ] **Dia 7:** Desenvolva um contador.
+
+Parte 2
+
+- [ ] **Dia 8:** Desenvolva um toggle que altere o tema para claro e escuro.
+- [ ] **Dia 9:** Crie uma animação de loading.
+- [ ] **Dia 10:** Utilize a lib Particle.js do JavaScript.
+- [ ] **Dia 11:** Crie um layout de um formulário de login.
+- [ ] **Dia 12:** Desenvolva uma galeria de imagens.
+- [x] **Dia 13:** Desenvolva um menu responsivo.
+- [ ] **Dia 14:** Crie um formulário de quizzes.
+
+Parte 3
+
+- [ ] **Dia 15:** Em breve
+- [ ] **Dia 16:** Em breve
+- [ ] **Dia 17:** Em breve
+- [ ] **Dia 18:** Em breve
+- [ ] **Dia 19:** Em breve
+- [ ] **Dia 20:** Em breve
+- [ ] **Dia 21:** Em breve
 
 ---
 
@@ -35,6 +55,7 @@ Linguagens:
 
 - HTML
 - CSS
+- JavaScript
 
 Criação e edição das imagens:
 
